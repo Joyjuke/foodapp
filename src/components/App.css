@@ -1,0 +1,32 @@
+.app {
+  text-align: center;
+  background-color: black;
+  color: aqua;
+  font-size: 48px;
+  font-weight: bold;
+  padding: 16;
+}
+/* .input {
+  display: block;
+  background-color: pink;
+  margin-left: 40%;
+} */
+.black-nav {
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  padding: 10px 20px;
+}
+.list {
+  border-bottom: 1px solid #ccc;
+}
+.span {
+  color: red;
+}
+
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background: #eee;
+  text-align: center;
+}
